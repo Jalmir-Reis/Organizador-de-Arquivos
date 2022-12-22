@@ -1,5 +1,9 @@
-# Organizador-de-Arquivos
+# Organizador de arquivos
 
+Este código tem como objetivo organizar arquivos em pastas de acordo com o seu formato. Ele move os arquivos do diretório de download para as pastas correspondentes, criando as pastas necessárias se elas ainda não existirem.
 
-Para fins de estudo, criei um organizador de arquivos para a pasta dowloads, que os organizam por tipo, podendo inclusive ser adicionado a rotina de
-inicialização do windows.
+Como usar
+Execute o código.
+O código irá perguntar se você está pronto para começar. Clique em "OK".
+O código irá percorrer o diretório de download e criar pastas para cada formato de arquivo encontrado.
+
